@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect x="0" y="0" width="512" height="512" fill="#0b132b"/>
+
+    <text x="256" y="222" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#edefeb" letter-spacing="1">
+      ATHENS
+    </text>
+    <text x="256" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#edefeb" letter-spacing="1">
+      MACRO
+    </text>
+    <text x="256" y="334" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#edefeb" letter-spacing="1">
+      WORKSHOP
+    </text>
+
+    <rect x="156" y="368" width="200" height="10" rx="5" fill="#edefeb"/>
+
+    <text x="256" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#edefeb" letter-spacing="4">
+      2026
+    </text>
+  </g>
+</svg>
